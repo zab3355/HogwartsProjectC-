@@ -1,0 +1,86 @@
+[
+  {
+    "DateOfBirth": "2012-04-23",
+    "Detentions": [
+      {
+        "Date": "2012-04-23",
+        "Reason": "Things",
+        "Punishment": "Write lines",
+        "IssuedBy": "Professor Eric Baker",
+        "PointsTaken": 100
+      }
+    ],
+    "HasHogsmeadePermissionForm": true,
+    "House": 0,
+    "Name": "Harry Potter",
+    "Subjects": [
+      [
+        {
+          "Subject": "Charms",
+          "Grade": "Acceptable"
+        },
+        {
+          "Subject": "DefenceAgainstTheDarkArts",
+          "Grade": "Outstanding"
+        },
+        {
+          "Subject": "Astronomy",
+          "Grade": "Outstanding"
+        },
+        {
+          "Subject": "Flying",
+          "Grade": "Outstanding"
+        }
+      ],
+      [
+        {
+          "Subject": "Herbology",
+          "Grade": "Outstanding"
+        }
+      ]
+    ],
+    "YearLevel": 6
+  },
+  {
+    "DateOfBirth": "2012-04-23",
+    "Detentions": [
+      {
+        "Date": "2012-04-23",
+        "Reason": "Things",
+        "Punishment": "Write lines",
+        "IssuedBy": "Professor Eric Baker",
+        "PointsTaken": 100
+      }
+    ],
+    "HasHogsmeadePermissionForm": true,
+    "House": 0,
+    "Name": "Harry Potter",
+    "YearLevel": 6,
+    "Subjects": [
+      [
+        {
+          "Subject": "Charms",
+          "Grade": "Acceptable"
+        },
+        {
+          "Subject": "DefenceAgainstTheDarkArts",
+          "Grade": "Outstanding"
+        },
+        {
+          "Subject": "Astronomy",
+          "Grade": "Outstanding"
+        },
+        {
+          "Subject": "Flying",
+          "Grade": "Outstanding"
+        }
+      ],
+      [
+        {
+          "Subject": "Herbology",
+          "Grade": "Outstanding"
+        }
+      ]
+    ]
+  }
+]

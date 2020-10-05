@@ -1,2 +1,2 @@
-# HogwartsProjectC-
+# Hogwarts Project - IGME 201
 Using Visual Studio, I was tasked using C# to create a profile interface for users to load, save, and clear data from. This program had to store data into each profile and return them to the user with the user able to modify that data. This program also had to have a functional and unique GUI. Since the theme of the project was Harry Potter, I used various Harry Potter like fonts throughout my menus.
